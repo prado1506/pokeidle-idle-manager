@@ -78,6 +78,14 @@
 
 <p align="center"><img src="screenshots/avisos.png" alt="Avisos" width="700"></p>
 
+### Chat do jogo no painel
+- Leia e responda o chat do jogo de qualquer conta, numa aba ou janela destacada.
+- Tags que avisam quando alguém cita uma palavra ou frase, e frases ignoradas que somem do chat (até as do sistema).
+- Shiny capturado com a foto do Pokémon e o nível de quem capturou; "Ver ficha" e "Quanto vale?" de qualquer Pokémon citado.
+- Mensagens de ADM e MOD em destaque, com aviso opcional.
+
+<p align="center"><img src="screenshots/chat.png" alt="Chat do jogo" width="800"></p>
+
 ### Histórico e celular
 - Histórico de 7, 30 e 90 dias: XP, ouro, capturas, sessões e o desempenho de cada hunt.
 - Painel inteiro no celular.
