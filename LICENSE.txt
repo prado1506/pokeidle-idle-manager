@@ -1,0 +1,11 @@
+Idle Manager - Copyright (c) 2026 prado1506. Todos os direitos reservados.
+
+O Idle Manager é distribuído gratuitamente apenas na forma compilada (instalador para Windows).
+Você pode baixar, instalar e usar o programa. Não é permitido vender, redistribuir modificado,
+descompilar para redistribuir ou publicar o programa como se fosse seu.
+
+O programa é fornecido "como está", sem garantia de qualquer tipo. O uso no pokeidle.io é
+responsabilidade de cada jogador (veja os termos do jogo em https://pokeidle.io/terms).
+
+Idle Manager é um projeto de fã, não oficial, sem relação com o pokeidle.io ou seus
+desenvolvedores. Pokémon e os nomes dos personagens são marcas da Nintendo, Creatures e Game Freak.
