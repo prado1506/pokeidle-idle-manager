@@ -20,6 +20,8 @@
   <b>Grátis no Windows com 2 contas, sem anúncios.</b> Site: <a href="https://idlemanager.com">idlemanager.com</a>
 </p>
 
+<p align="center"><img src="screenshots/hero-1408.webp" alt="Idle Manager" width="900"></p>
+
 <p align="center"><img src="screenshots/dashboard.webp" alt="Painel de contas" width="900"></p>
 
 ---
@@ -74,7 +76,7 @@
 ### Avisos
 - No painel e no Discord: shiny visto ou capturado, captura rara com a nota da ficha, drop raro, conta que caiu, marco do Top Catch, divisão do PvP, voto liberado e mais. Cada um pode ser ligado ou desligado.
 
-<p align="center"><img src="screenshots/avisos-rank-voto.png" alt="Avisos" width="700"></p>
+<p align="center"><img src="screenshots/avisos.png" alt="Avisos" width="700"></p>
 
 ### Histórico e celular
 - Histórico de 7, 30 e 90 dias: XP, ouro, capturas, sessões e o desempenho de cada hunt.
