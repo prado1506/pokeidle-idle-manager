@@ -44,8 +44,10 @@
 - Prey automático com escolha de regiões e roleta do bônus fraco.
 - Raids, bosses, oferenda e sacrifício automáticos, sem tocar no que você protegeu.
 - Venda e anúncio automático de repetidos, Auto Venda do Depot.
+- **Chocadeira:** os Mystery Eggs de todas as contas numa tela, com tempo e luz; coloca ovo, compra com gold e a chocadeira automática põe o próximo ovo assim que um choca.
 
 <p align="center"><img src="screenshots/automacao.webp" alt="Automação" width="800"></p>
+<p align="center"><img src="screenshots/chocadeira.png" alt="Chocadeira" width="800"></p>
 
 ### Mapa
 - Mande qualquer conta caçar em qualquer área, sem abrir o jogo.
