@@ -76,7 +76,7 @@
 - Vitórias, derrotas e partidas da semana, com aviso de subida e queda de divisão.
 
 ### Avisos
-- No painel e no Discord: shiny visto ou capturado, captura rara com a nota da ficha, drop raro, conta que caiu, marco do Top Catch, divisão do PvP, voto liberado e mais. Cada um pode ser ligado ou desligado.
+- No painel e no Discord: shiny visto ou capturado, captura rara com a nota da ficha, Pokémon com nota final alta, drop raro, conta que caiu, marco do Top Catch, divisão do PvP, voto liberado e mais. Cada um pode ser ligado ou desligado.
 
 <p align="center"><img src="screenshots/avisos.png" alt="Avisos" width="700"></p>
 
@@ -112,6 +112,7 @@ Prefere não instalar nada? Use o **[painel online](https://painel.idlemanager.c
 |---|---|---|
 | Contas de graça | **2** | só para doadores |
 | Contas para quem doa | 4 | 4 |
+| Caça inteligente | só para quem doa | sim |
 | PC ligado | precisa | não precisa (roda 24 h no servidor) |
 | Dados das contas | só no seu computador | no servidor do Idle Manager |
 
