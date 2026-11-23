@@ -39,9 +39,10 @@
 
 ### Caça e automação
 - Captura automática na ordem de bolas que você escolher, com poção, revive e limite de HP calculado para a poção curar inteira.
-- **Caça inteligente** com metas de XP, ouro, Bestiário e **Top Catch** (espécies novas da semana).
+- **Caça inteligente** com metas de XP, ouro, Bestiário, **Top Catch** (espécies novas da semana), **Completar Pokédex** e **Nv mais baixo** (evolui sozinho).
 - **Melhor Pokémon** para cada área e no Prey (toque num dos 9 e veja quem rende mais).
-- Prey automático com escolha de regiões e roleta do bônus fraco.
+- Prey automático com escolha de regiões e roleta do bônus fraco, dizendo se cada um dos 9 vale a pena contra a sua melhor hunt.
+- **Equipe da Raid calculada** para o Gigantamax da semana (aplica sozinha) e o melhor time para cada boss lendário.
 - Raids, bosses, oferenda e sacrifício automáticos, sem tocar no que você protegeu.
 - Venda e anúncio automático de repetidos, Auto Venda do Depot.
 - **Chocadeira:** os Mystery Eggs de todas as contas numa tela, com tempo e luz; coloca ovo, compra com gold e a chocadeira automática põe o próximo ovo assim que um choca.
